@@ -15,7 +15,7 @@ This input tool is widely deployed in all Wikimedia projects (eg: wikipedia).
 
 
 Quick start
------------
+===========
 
 ```bash
 git clone https://github.com/wikimedia/jquery.ime.git
@@ -32,7 +32,7 @@ support for any editable elements in a page.
 
 
 Example
--------
+=======
 See [an example](http://thottingal.in/projects/js/jquery.ime/examples/) page
 where jquery.ime in action.
 
@@ -56,7 +56,7 @@ web servers like Apache or Nginx, you already know how to put the code in a
 webserver.
 
 Plugin Options
---------------
+==============
 
 | Option  | Description |
 |---------|---------------------|
@@ -65,13 +65,13 @@ Plugin Options
 | helpHandler| Called for each ime option in the menu, default value: null|
 
 Browser extensions
-------------------
+==================
 This input tool is also available as Firefox and Chrome extensions.
 * [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/wikimedia-input-tools/)
 * [Chrome extension](https://chrome.google.com/webstore/detail/wikimedia-input-tools/fjnfifedbeeeibikgpggddmfbaeccaoh)
 
 For Developers
---------------
+==============
 
 Read [rules/README.md](https://github.com/wikimedia/jquery.ime/tree/master/rules)
 to learn how to write an input method for a language.
@@ -85,6 +85,6 @@ Read the technical specification of the project from
 Do watch the code walkthrough by Chris Forno: http://www.youtube.com/watch?v=LPec-KIBVeI
 
 License
--------
+=======
 This project is dual licensed with GPLv2+ and MIT license. See the license
 files in the source code for more details.
